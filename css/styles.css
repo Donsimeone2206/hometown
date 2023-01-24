@@ -1,0 +1,78 @@
+body {
+    color: #1D3557; 
+    font-family: 'Arial';
+    margin: 0;
+    text-align: center;
+}
+#hero {
+    background-image: url("../images/agoiwoye.jpg");
+    background-size: cover;
+    height: 343px;
+    margin-bottom: 0;
+    padding-top: 100px;
+}
+.hero-text1 {
+    background: #1D3557;
+    border-radius: 5px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    margin: 0 auto;
+    position: relative;
+    top: 300px;
+    width: 305px;
+}
+.hero-text2 {
+    background: #457B9D;
+    border-radius: 5px;
+    color: #ffffff;
+    margin: 10px auto;
+    padding: 5px 10px;
+    width: 412px; 
+}
+#activities {
+    background: #F1FAEE;
+    height: 378px;
+    margin-top: -70px;
+    width: 100%;
+}
+#activities > h3 {
+    margin-top: 0;
+    padding-top: 39px;
+}
+.activities-main {
+    display: flex;
+    justify-content: space-around;
+}
+.activities-img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.activities-element > h4 {
+    width: 183px;
+}
+.activities-element > p {
+    width: 198px;
+}
+.footer-div {
+    align-items: center;
+    background: #A8DADC;
+    border-bottom: 5px solid #1D3557;
+    border-radius: 10px;
+    display: flex;
+    height: 294px;
+    margin: 50px auto;
+    width: 400px;
+}
+.footer-img {
+    border-radius: 10px;
+    Height: 248.67px;
+    margin-left: 10px;
+    Width: 180px;
+}
+.footer-content {
+    padding-left: 10px;
+    padding-right: 10px;
+}
